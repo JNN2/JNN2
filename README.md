@@ -30,8 +30,7 @@
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
-  🔹 <a href="https://github.com/JNN2/flowcash">FlowCash – Sistema de Controle Financeiro com IA</a><br>
-  🔹 <a href="https://github.com/JNN2/desafio-fullstack-veritas">Desafio Fullstack Veritas – Kanban React + Go</a>
+  🔹 <a href="https://github.com/JNN2/flowcash">FlowCash – Sistema de Controle Financeiro</a><br>
 </p>
 
 ---
@@ -39,7 +38,7 @@
 <h2 align="center">📬 Contato</h2>
 
 <p align="center">
-  <a href="mailto:jailton.costa.876@gmail.com">
+  <a href="jailton.costa.876@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jailton-costa-541952208">
