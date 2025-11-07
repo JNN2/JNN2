@@ -39,7 +39,7 @@
 <h2 align="center">📬 Contato</h2>
 
 <p align="center">
-  <a href="mailto:jailton@gmail.com">
+  <a href="mailto:jailton.costa.876@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jailton-costa-541952208">
