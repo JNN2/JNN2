@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="#-english-version">🇺🇸 English</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-</p>
-
-<br>
-
 <h1 id="-english-version" align="center">
   👋 Hi! Welcome to my GitHub profile!
 </h1>
