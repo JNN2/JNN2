@@ -26,8 +26,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -66,23 +64,7 @@
   &nbsp; • &nbsp;
   🔐 Information Security
 </p>
----
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-  <img
-    height="170em"
-    src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=JNN2&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170em"
-    src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=JNN2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
-
-</div>
----
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
   💰
@@ -94,7 +76,7 @@
 <p align="center">
   A system designed to help users organize and manage their finances.
 </p>
----
+
 <h2 align="center">📚 Currently Learning</h2>
 <p align="center">
   🔹 Backend Development
@@ -111,7 +93,8 @@
   <br>
   🔹 Software Architecture
 </p>
----
+
+
 <h2 align="center">📬 Connect With Me</h2>
 <p align="center">
   <a href="mailto:jailton.costa.876@gmail.com">
@@ -125,7 +108,7 @@
     />
   </a>
 </p>
----
+
 <h3 align="center">
   ✨ "Technology moves the world, but people make the difference." ✨
 </h3>
